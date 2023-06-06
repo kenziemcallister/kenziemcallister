@@ -2,4 +2,4 @@
 - 👀 I'm an undergraduate student studying computer science
 - 🌱 At the Univeristy of Missouri
 - 📫 Email: mackenziemcallister64@gmail.com
-- 📱 Phone: (573)-701-5455
+- 📱 LinkedIn: https://www.linkedin.com/in/mackenzie-mcallister64/
