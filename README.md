@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kenzie McAllister!
-- 👀 I'm an undergraduate student studying computer science
-- 🌱 At the Univeristy of Missouri
-- 📫 Email: mackenziemcallister64@gmail.com
-- 📱 LinkedIn: https://www.linkedin.com/in/mackenzie-mcallister64/
+- Hi, I’m Kenzie McAllister!
+- I'm an undergraduate student studying computer science
+- At the Univeristy of Missouri
+- Email: mackenziemcallister64@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mackenzie-mcallister64/
